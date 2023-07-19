@@ -50,7 +50,7 @@ export default function Profile() {
                       "Ethusiastic Dev 💻",
                       "Full Stack Dev 👨‍💻",
                       "MERN Stack Dev 😎",
-                      "Python Dev 🐍",
+                      "Python Dev 🧑‍💻",
                     ],
                     autoStart: true,
                     loop: true,
