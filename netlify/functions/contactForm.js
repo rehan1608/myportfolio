@@ -32,8 +32,8 @@ exports.handler = async (event) => {
     `;
 
     const mailOptions = {
-      from: "raorehan79@gmail.com",
-      to: "raorehan79@gmail.com",
+      from: "mohdshahid14112003@gmail.com",
+      to: "mohdshahid14112003@gmail.com",
       subject: `New Query`,
       text: formattedMessage,
     };
