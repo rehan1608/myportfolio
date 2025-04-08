@@ -1,0 +1,10 @@
+.unstyled-link,
+.unstyled-link:link,
+.unstyled-link:hover,
+.unstyled-link:active {
+  color: inherit;          /* Inherit the text color from the parent element */
+  text-decoration: none;   /* Remove the underline */
+  cursor: pointer;         /* Keep the pointer cursor to indicate it's clickable */
+}
+
+
